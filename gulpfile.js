@@ -12,7 +12,7 @@ var gulp = require('gulp'),
         'components/scripts/tagline.js',
         'components/scripts/template.js'
     ];
-    var sassSources = ['components/sass/style.css'];
+    var sassSources = ['components/sass/style.scss'];
 
 //gulp.task('log', function(){
 //gutil.log('Workflows are awesome');
